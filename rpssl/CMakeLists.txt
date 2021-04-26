@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.9)
+project (rpssl)
+include (../../32blit.cmake)
+blit_executable (rpssl rpssl.cpp)
+blit_assets_yaml (rpssl assets.yml)
+blit_metadata (rpssl metadata.yml)

@@ -1,0 +1,9 @@
+title: rpssl
+description: Rock Paper Scissors Spock Lizard
+author: Iker Garcia
+splash:
+  file: rpssl.png
+icon:
+  file: ../no-icon.png
+version: v1.2.0
+category: game

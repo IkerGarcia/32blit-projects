@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.9)
+project (tictactoe)
+include (../../32blit.cmake)
+blit_executable (tictactoe tictactoe.cpp)
+blit_assets_yaml (tictactoe assets.yml)
+blit_metadata (tictactoe metadata.yml)

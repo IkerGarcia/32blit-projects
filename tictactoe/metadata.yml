@@ -1,0 +1,9 @@
+title: tictactoe
+description: Tic Tac Toe
+author: Iker Garcia
+splash:
+  file: tictactoe.png
+icon:
+  file: ../no-icon.png
+version: v1.0.0
+category: game
